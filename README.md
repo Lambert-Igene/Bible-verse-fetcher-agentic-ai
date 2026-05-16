@@ -1,5 +1,6 @@
 # Bible-verse-fetcher-agentic-ai
 Agentic ai bootcamp assignment 1
+************************************************************************************************************
 
 A Python learning project for experimenting with AI agents, API integrations, and notebook-based development.
 
