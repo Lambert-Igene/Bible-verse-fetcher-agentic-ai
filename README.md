@@ -8,5 +8,6 @@ Overview
 This project contains bootcamp Assignment1 and focused on building AI-powered workflows. The current work includes a Bible verse fetcher assistant that uses an AI agent and a bible API tool to answer bible-related questions for a given bible topic.
 
 Project Structure
-***********************************************************************************************Bible data source:  free API bible-api.com
+***********************************************************************************************
+Bible data source:  free API bible-api.com
 This service provides a JSON API for retrieving Bible verses and passages, provided by Tim Morgan.
